@@ -1,0 +1,13 @@
+tensorflow==2.13.0
+scikit-learn==1.3.2
+seaborn==0.13.0
+matplotlib==3.7.4
+pandas==2.0.3
+chess==1.10.0
+chess.com==2.1.0
+kmodes==0.12.2
+
+
+
+
+
